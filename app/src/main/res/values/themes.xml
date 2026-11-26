@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TransCo" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">#1a3a6b</item>
+        <item name="android:navigationBarColor">#0f1c3a</item>
+        <item name="android:windowBackground">#0f1c3a</item>
+    </style>
+</resources>
